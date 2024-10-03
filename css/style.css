@@ -1,0 +1,91 @@
+body {  
+    background-color: #E6E6FA;
+    font-family: 'Courier New', Courier, monospace;
+    color: #8B0000;  
+}
+.my_photo{
+    background: url("../image/kvas.jpg") no-repeat center center;
+    background-size: 100%;
+    width: 480px;
+    height: 500px;
+}
+.nav_logo{
+    background: url("../image/pt.png") no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.container {
+    margin-top: 30px;
+}
+.photo_title {
+    text-align: left;
+}
+.photo_desc{
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+    text-shadow: black;
+}
+.contacts{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+}
+.list {
+    font-size: 20px;
+}
+
+.button_js{
+    text-align: center;
+}
+#my_button{
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    color:white;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+#post_button{
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    color:white;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+#demo img{
+    margin-top: 15px;
+    width: 25%;
+    height: 25%;
+}
+.row {
+}
+.col-8 {
+    text-align: left;
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+
+.img_size {
+}
